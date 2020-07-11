@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://newbie-penguin.github.io/deeplearningblog/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>https://newbie-penguin.github.io/uncool_blog/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://newbie-penguin.github.io/deeplearningblog/jupyter/2020/02/20/test.html</loc>
+<loc>https://newbie-penguin.github.io/uncool_blog/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://newbie-penguin.github.io/deeplearningblog/about/</loc>
+<loc>https://newbie-penguin.github.io/uncool_blog/about/</loc>
 </url>
 <url>
-<loc>https://newbie-penguin.github.io/deeplearningblog/</loc>
+<loc>https://newbie-penguin.github.io/uncool_blog/</loc>
 </url>
 <url>
-<loc>https://newbie-penguin.github.io/deeplearningblog/search/</loc>
+<loc>https://newbie-penguin.github.io/uncool_blog/search/</loc>
 </url>
 <url>
-<loc>https://newbie-penguin.github.io/deeplearningblog/categories/</loc>
+<loc>https://newbie-penguin.github.io/uncool_blog/categories/</loc>
 </url>
 </urlset>
